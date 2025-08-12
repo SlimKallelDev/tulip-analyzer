@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import FileUploader from './components/FileUploader';
-import TestResults from './components/TestResults';
+import TestResults from './components/TestResults'; // make sure this path is correct
 import { runTulipTests } from './utils/tests';
 
 function App() {
